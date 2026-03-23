@@ -2,7 +2,7 @@ import pytest
 from praktikum.bun import Bun
 from praktikum.ingredient import Ingredient
 from praktikum.ingredient_types import INGREDIENT_TYPE_FILLING, INGREDIENT_TYPE_SAUCE
-from test_receipts_input_data import RECEIPT_TEST_CASES
+from receipts_input_data import RECEIPT_TEST_CASES
 
 
 class TestBurger:

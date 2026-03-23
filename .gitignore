@@ -9,7 +9,3 @@ venv/
 # IDE
 .idea/
 .vscode/
-
-# Test coverage
-.coverage
-htmlcov/
